@@ -1,0 +1,7 @@
+{
+  "name": "Copy of BhashaSetu - Smart Voice Translator",
+  "description": "A real-time voice translation app that automatically detects the spoken language and translates it to your desired language using Gemini 2.5 Flash and high-quality TTS.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
